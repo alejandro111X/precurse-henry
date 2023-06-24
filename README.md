@@ -1,2 +1,3 @@
-# precurse-henry
-curso de henry  (programacion) modulo 2
+Esproyecto  es de como crear un repositorio
+
+y de prueba
